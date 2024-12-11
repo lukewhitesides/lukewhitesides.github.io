@@ -1,18 +1,24 @@
 ---
 layout: post
 title: Software For Climate Summary
-subtitle: Excerpt from Soulshaping by Jeff Brown
+subtitle: A summary of what I learned from this course
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
-tags: [books, test]
-author: Sharon Smith and Barry Simpson
+author: Luke Whitesides
 ---
 
-Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?
+A few months ago, I enrolled in Terra.do’s online course, Software for Climate, driven by a mix of personal and professional motivations. As someone fascinated by decarbonization and climate solutions—and with over a decade of experience in software development—I saw this course as an ideal opportunity to explore these topics. I was also curious about the overlap between the healthcare industry, where I’ve worked, and other sectors. Additionally, the course’s hands-on coding assignments offered a chance to refresh my technical skills and learn new tools.
 
-The truth is that no one else can definitively know the path we are here to walk. It’s tempting to listen—many of us long for the omnipotent other—but unless they are genuine psychic intuitives, they can’t know. All others can know is their own truth, and if they’ve actually done the work to excavate it, they will have the good sense to know that they cannot genuinely know anyone else’s. Only soul knows the path it is here to walk. Since you are the only one living in your temple, only you can know its scriptures and interpretive structure.
+The course featured five modules and a final project. Each module included a lecture, a coding assignment, and peer review sessions. Topics ranged from using public APIs to analyze energy data and emissions, to GIS and AI applications for land classification, solar energy modeling, and IoT sensors for tracking air quality and weather. The peer reviews were especially valuable for learning from and connecting with the cohort.
 
-At the heart of the struggle are two very different ideas of success—survival-driven and soul-driven. For survivalists, success is security, pragmatism, power over others. Success is the absence of material suffering, the nourishing of the soul be damned. It is an odd and ironic thing that most of the material power in our world often resides in the hands of younger souls. Still working in the egoic and material realms, they love the sensations of power and focus most of their energy on accumulation. Older souls tend not to be as materially driven. They have already played the worldly game in previous lives and they search for more subtle shades of meaning in this one—authentication rather than accumulation. They are often ignored by the culture at large, although they really are the truest warriors.
+For my final project, I combined insights from the GIS/AI and photovoltaic modules to create a solar site selection tool. This prototype identified suitable land for solar projects using data analysis and modeling. The project was both challenging and rewarding, pushing me to apply and deepen my skills. I especially enjoyed learning and using the Google Earth Engine APIs. During the course’s final presentations, my project was honored with superlatives for Best Overall, Most Inspiring, and Best Execution—a humbling and motivating experience. There is a full write-up about my final project in [this post](https://lukewhitesides.github.io/2024-11-28-ASLA-v1/)
 
-A soulful notion of success rests on the actualization of our innate image. Success is simply the completion of a soul step, however unsightly it may be. We have finished what we started when the lesson is learned. What a fear-based culture calls a wonderful opportunity may be fruitless and misguided for the soul. Staying in a passionless relationship may satisfy our need for comfort, but it may stifle the soul. Becoming a famous lawyer is only worthwhile if the soul demands it. It is an essential failure if you are called to be a monastic this time around. If you need to explore and abandon ten careers in order to stretch your soul toward its innate image, then so be it. Flake it till you make it.
+#### Key Takeaways
+* Tools like Hex notebooks and ChatGPT have made creating software prototypes vastly more efficient.
+* There’s an abundance of publicly accessible climate-related data waiting to be leveraged.
+* Skills from other industries—like healthcare—translate well to climate-focused initiatives.
+* The climate tech community is vibrant and supportive, but engaging with it requires initiative.
+
+Overall, the course was an enriching experience, blending technical challenges with community inspiration. It deepened my understanding of how software can drive climate solutions and gave me a clearer path to contribute.
+
