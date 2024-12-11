@@ -1,16 +1,13 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Experienced product Mmnager | Innovator | Interest in sustainability and climate forward solutions
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Luke. I am an experienced product manager with expertise in building products and technology powered by AI and IoT and integrating them with digital platforms and user experiences to solve customer and user problems.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+My accomplishments include the successful launch of several healthcare IoT and digital products that achieved both profitability, double digit CAGR, and positive customer ROI in an economically challenging and complex industry. 
 
-What else do you need?
+I am interested in applying my skills to net zero climate goals, circular economy, decarbonization and renewable energy transition for digital products.
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I live in South Lake Tahoe, CA and spend a lot of time in the San Francisco Bay area as well. In my free time, I enjoy rock climbing, skiing, trail running, and hanging out with my cat, Freya.
