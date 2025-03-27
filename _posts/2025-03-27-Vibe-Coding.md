@@ -2,14 +2,14 @@
 layout: post
 title: My First Vibe Coding Experiment
 subtitle: I built a specialized language learning routine for free in 20 minutes
-cover-img: /assets/img/vibecoding4.png
+cover-img: /assets/img/vibecoding5.png
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 author: Luke Whitesides
 ---
 
 ### Background
-Recently, I've been hearing more and more about "vibe coding." As defined by (Wikipedia)[https://en.wikipedia.org/wiki/Vibe_coding], "Vibe coding is an AI-dependent programming technique where a person describes a problem in a few sentences as a prompt to a large language model (LLM) tuned for coding. The LLM generates software, shifting the programmer's role from manual coding to guiding, testing, and refining the AI-generated source code."
+Recently, I've been hearing more and more about "vibe coding." As defined by [Wikipedia]([https://en.wikipedia.org/wiki/Vibe_coding), "Vibe coding is an AI-dependent programming technique where a person describes a problem in a few sentences as a prompt to a large language model (LLM) tuned for coding. The LLM generates software, shifting the programmer's role from manual coding to guiding, testing, and refining the AI-generated source code."
 Having spent the last 7 years of my career as a product manager, this sounds not too dissimilar to the interactions I have with engineering teams building new technology products. As a product manager, much of the quality of my contributions depends on the accuracy and specificity of how I communicate context, requirements, and use cases to my engineering team. Based on my experience doing this, I assumed I'd be a pretty good vibe coder and wanted to put it to the test.
 ### Step 1 - Use Case Selection
 The first step to my vibe coding project was identifying a problem or need that I had that had not yet been met by any existing app, website, or software. Fortunately, I had something in mind.
@@ -19,7 +19,7 @@ Based on the problem described above, my core user need was a way to learn Spani
 Rather than being presented with random words to study, the most common words would be presented for study first—a stack rank of the most common words in the Spanish language. This would ensure I have a grasp on the most foundational vocabulary first before getting to esoteric words I am unlikely to encounter. However, in order to not waste time, if a word is already known, it will be skipped in future study sessions so that time is not wasted reviewing basic vocab over and over (a la Duolingo). The goal of the solution is to as efficiently as possible identify words in Spanish that 1) I do not already know and 2) am most likely to encounter in various situations.
 Note: I am aware there are language learning platforms that use this approach, but I also mostly wanted to use this solution as a test bed for vibe coding independent of other use cases.
 ###Step 3 - Vibe Coding
-Now that I had a problem in mind and the concept of a solution, it was time to vibe code. I started by searching DuckDuckGo for "best vibe coding tool." After looking through a couple of links, I selected (Replit)[https://replit.com/] (which is powered by Claude Sonnet 3.5 at the time of writing this) and signed up for a free account using my Github account.
+Now that I had a problem in mind and the concept of a solution, it was time to vibe code. I started by searching DuckDuckGo for "best vibe coding tool." After looking through a couple of links, I selected [Replit](https://replit.com/) (which is powered by Claude Sonnet 3.5 at the time of writing this) and signed up for a free account using my Github account.
 This is the starting prompt I gave it:
 
 ![Screenshot of a prompt](/assets/img/vibecoding-1.png)
