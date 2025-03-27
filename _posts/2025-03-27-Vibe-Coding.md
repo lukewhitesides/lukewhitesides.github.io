@@ -18,7 +18,7 @@ To give some background, I would consider myself proficient, but not fluent, in 
 Based on the problem described above, my core user need was a way to learn Spanish vocabulary in a more time-effective way. A simple solution I identified was through a flashcard-style study/review method, but one based on the relative frequency of each word in the Spanish language.
 Rather than being presented with random words to study, the most common words would be presented for study first—a stack rank of the most common words in the Spanish language. This would ensure I have a grasp on the most foundational vocabulary first before getting to esoteric words I am unlikely to encounter. However, in order to not waste time, if a word is already known, it will be skipped in future study sessions so that time is not wasted reviewing basic vocab over and over (a la Duolingo). The goal of the solution is to as efficiently as possible identify words in Spanish that 1) I do not already know and 2) am most likely to encounter in various situations.
 Note: I am aware there are language learning platforms that use this approach, but I also mostly wanted to use this solution as a test bed for vibe coding independent of other use cases.
-###Step 3 - Vibe Coding
+### Step 3 - Vibe Coding
 Now that I had a problem in mind and the concept of a solution, it was time to vibe code. I started by searching DuckDuckGo for "best vibe coding tool." After looking through a couple of links, I selected [Replit](https://replit.com/) (which is powered by Claude Sonnet 3.5 at the time of writing this) and signed up for a free account using my Github account.
 This is the starting prompt I gave it:
 
