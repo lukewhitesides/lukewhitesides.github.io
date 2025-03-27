@@ -8,10 +8,10 @@ share-img: /assets/img/path.jpg
 author: Luke Whitesides
 ---
 
-##Background
+###Background
 Recently, I've been hearing more and more about "vibe coding." As defined by (Wikipedia)[https://en.wikipedia.org/wiki/Vibe_coding], "Vibe coding is an AI-dependent programming technique where a person describes a problem in a few sentences as a prompt to a large language model (LLM) tuned for coding. The LLM generates software, shifting the programmer's role from manual coding to guiding, testing, and refining the AI-generated source code."
 Having spent the last 7 years of my career as a product manager, this sounds not too dissimilar to the interactions I have with engineering teams building new technology products. As a product manager, much of the quality of my contributions depends on the accuracy and specificity of how I communicate context, requirements, and use cases to my engineering team. Based on my experience doing this, I assumed I'd be a pretty good vibe coder and wanted to put it to the test.
-##Step 1 - Use Case Selection
+###Step 1 - Use Case Selection
 The first step to my vibe coding project was identifying a problem or need that I had that had not yet been met by any existing app, website, or software. Fortunately, I had something in mind.
 To give some background, I would consider myself proficient, but not fluent, in speaking and understanding Spanish. From 8th grade through my final year of college, I took Spanish classes for about 7 years. I have retained a pretty good understanding of grammar and basic vocabulary, but more advanced vocabulary has often drifted from my memory. So far, I have never been able to find a good solution to practice advanced Spanish vocabulary, as language learning apps like DuoLingo and Babbel are too easy for my current ability with the language. I needed a more targeted way that would help me focus on learning vocabulary that I did not know.
 ###Step 2 - Solutioning
