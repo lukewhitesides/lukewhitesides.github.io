@@ -2,8 +2,8 @@
 layout: post
 title: My First Vibe Coding Experiment
 subtitle: I built a specialized language learning routine for free in 20 minutes
-cover-img: /assets/img/vibecoding5.png
-thumbnail-img: /assets/img/vibecoding5.png
+cover-img: /assets/img/nguyen-truong-JdWdHdkkRec-unsplash.jpg
+thumbnail-img: /assets/img/nguyen-truong-JdWdHdkkRec-unsplash.jpg
 share-img: /assets/img/path.jpg
 author: Luke Whitesides
 ---
